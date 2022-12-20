@@ -1,5 +1,5 @@
 # Pull base image 
-From docker.io/tomcat:8-jre8 
+From docker.io/tomcat:7-jre7 
 
 # Maintainer 
 MAINTAINER "Sri Udaya" 
