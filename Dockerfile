@@ -1,6 +1,6 @@
 # Pull base image 
-From tomcat:8-jre8 
+From docker.io/tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "valaxytech@gmail.com" 
+MAINTAINER "Sri Udaya" 
 COPY ./webapp.war /usr/local/tomcat/webapps
